@@ -1,0 +1,243 @@
+.bg {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card {
+    position: absolute;
+    background-color: rgba(237, 237, 237, 0.5);
+    border-radius: 35px; /* 5px rounded corners */
+    width: 30%;
+    min-height: 60%;
+    left: 35%;
+    top: 15%;
+}
+
+.card-rp {
+    position: fixed;
+    background-color: rgba(237, 237, 237, 0.5);
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    height: 5%;
+}
+
+.tx {
+    text-align: center;
+    padding-top: 0.8%;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.col-70 {
+    float: left;
+    width: 100%;
+    margin-top: 70px;
+}
+
+.col-25 {
+    float: left;
+    width: 100%;
+    margin-top: 25px;
+}
+
+.col-30 {
+    float: left;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.button {
+    border-radius: 10px;
+    border: 1px transparent;
+    color: rgba(237, 237, 237, 1);
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 50%;
+}
+
+.button-listar {
+    background-color: rgba(235, 60, 219, 1);
+}
+
+.button-inserir {
+   background-color: rgba(84, 144, 255, 1);
+}
+
+.button1 {
+    background-color: rgba(16, 171, 13, 1);
+}
+
+.button2 {
+    background-color: rgba(16, 171, 13, 1);
+}
+
+.button3 {
+    border-radius: 10px;
+    border: 1px transparent;
+    background-color: rgba(235, 60, 219, 1);
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 16px;
+    color: rgba(237, 237, 237, 1);
+}
+
+.button4 {
+    background-color: rgba(84, 144, 255, 1);
+    border-radius: 10px;
+    border: 1px transparent;
+    padding: 5px;
+    margin-top: 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 16px;
+    color: rgba(237, 237, 237, 1);
+}
+
+.link-60 {
+    width: 100%;
+    margin-top: 60px;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.link-15 {
+    width: 100%;
+    margin-top: 15px;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.text-login{
+    color: rgba(0, 0, 0, 1);
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.tx-1 {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.btn-0 {
+    position: fixed;
+    padding-left: 70%;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.t-aling {
+    padding-top: 5%;
+    padding-left: 7%;
+}
+
+.card-0 {
+    margin-top: 5%;
+    margin-left: 5%;
+    background-color: transparent;
+    border-radius: 35px;
+    max-width: 85%;
+    min-height: 70%;
+    left: 35%;
+    top: 15%;
+}
+
+.col-3 {
+    margin-top: 2%;
+    margin-left: 5%;
+    max-width: 50%;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.col-botao {
+    margin-left: 50%;
+    margin-bottom: 2%;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+
+.img-0 {
+    margin-left: 5%;
+    max-width: 300px;
+    max-height: 300px;
+    display: block;
+    border-radius: 10%;
+}
+
+.row {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.row-0 {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.link-0 {
+    width: 10%;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.title-0 {
+    width: 100%;
+    margin-top: 15px;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+
